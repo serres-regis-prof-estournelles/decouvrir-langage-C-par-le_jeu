@@ -94,7 +94,7 @@ int main() {
     cout << "" << endl;
 
     cout << "Bienvenue dans le jeu du CADENAS ! Trouveras-tu la bonne combinaison pour l'ouvrir ?" << endl;
-    cout << "Monsieur SERRES pense que non" << endl;
+    cout << "Je pense que non" << endl;
     cout << "Tu dois entrer des combinaisons de 4 chiffres differents (par exemple : 1234)" << endl;
     cout << "*****************************************************************************" << endl;
 
@@ -174,3 +174,4 @@ int main() {
 
     return 0;
 }
+
