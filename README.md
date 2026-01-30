@@ -4,8 +4,8 @@
 - **Terminal/Invite de commandes**
 
 ## L'exécution de ce programme nécessite un environnement C++ 
-## Microsoft Visual Studio recommandé
-#
+## Microsoft Visual Studio recommandé (logiciel gratuit)
+https://visualstudio.microsoft.com/fr/
 #
 ✅ Règles simples à comprendre
 #
